@@ -11,6 +11,10 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH 
 
+OUTPUT:
+
+<img width="1621" height="1079" alt="Image" src="https://github.com/user-attachments/assets/4878a008-4c51-4abd-a78f-485030ca3df7" />
+
 DESCRIPTION:
 
 The Real-Time Collaborative Document Editor is a full-stack web application that allows multiple users to simultaneously edit the same document from different devices. The edits appear instantly on all connected screens, demonstrating the power of real-time communication through WebSockets. The application provides a seamless, dynamic, and responsive user interface built using React.js, while the backend, powered by Node.js and Express.js, manages real-time updates, document synchronization, and database operations. The data is securely stored in MongoDB, ensuring that users can retrieve and modify their work anytime.
